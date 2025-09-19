@@ -8,8 +8,8 @@ accelerate launch --num_processes=8 \
   -m lmms_eval \
   --model llava \
   --model_args pretrained=lmms-lab/llama3-llava-next-8b,conv_template=llava_llama_3 \
-  --tasks textvqa_val \
+  --tasks scienceqa_img \
   --batch_size 1 \
   --log_samples \
   --log_samples_suffix llava_next\
-  --output_path ./logs/gprune_textvqa
+  --output_path ./logs/mrpruner_sqa
