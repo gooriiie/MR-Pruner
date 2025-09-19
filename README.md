@@ -11,10 +11,6 @@ Key highlights:
 
 ---
 
-## 🔧 Environments
-
----
-
 ## ⚙️ Installation
 MR-Pruner is builded on [Lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval).  
 
