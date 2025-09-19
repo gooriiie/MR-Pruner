@@ -1,4 +1,4 @@
-name: gprune
+name: mrpruner
 channels:
   - pytorch
   - nvidia
