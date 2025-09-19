@@ -12,7 +12,7 @@ Key highlights:
 ---
 
 ## ⚙️ Installation
-MR-Pruner is builded on [Lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval).  
+MR-Pruner is builded on [Lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), which is evaluation toolkit for MLLMs.  
 
 ```bash
 git clone https://github.com/gooriiie/MR-Pruner.git
