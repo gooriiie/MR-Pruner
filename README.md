@@ -15,7 +15,7 @@ Key highlights:
 MR-Pruner is builded on [Lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval).  
 
 ```bash
-git clone https://github.com/your-username/MR-Pruner.git
+git clone https://github.com/gooriiie/MR-Pruner.git
 cd MR-Pruner
 
 # create environment
