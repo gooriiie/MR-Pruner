@@ -2,7 +2,7 @@
 accelerate launch --num_processes=8 \
   --main_process_port=29501 \
   --num_machines=1 \
-  --gpu_ids='1,2,3,4,5,6,7' \
+  --gpu_ids='0,1,2,3,4,5,6,7' \
   --mixed_precision=fp16 \
   --dynamo_backend=no \
   -m lmms_eval \
