@@ -11,6 +11,10 @@ Key highlights:
 
 ---
 
+## 🔧 Environments
+
+---
+
 ## ⚙️ Installation
 MR-Pruner is builded on [Lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval).  
 
@@ -19,11 +23,12 @@ git clone https://github.com/gooriiie/MR-Pruner.git
 cd MR-Pruner
 
 # create environment
-conda create -n gprune python=3.10 -y
+conda create -n mrpruner python=3.10
 conda activate mrpruner
-
-# install dependencies
 pip install -r requirements.txt
+
+# create environment with yaml
+conda env create -f environment.yml
 ```
 
 ---
@@ -32,5 +37,12 @@ pip install -r requirements.txt
 
 Run evaluation with default settings.
 ```bash
-bash ./scripts/eval_lmms_eval.sh
+# TextVQA
+bash ./scripts/eval_lmms_eval_textvqa.sh  
+
+# ScienceQA-IMG
+bash ./scripts/eval_lmms_eval_sqa.sh
+
+# POPE
+bash ./scripts/eval_lmms_eval_pope.sh  
 ```
