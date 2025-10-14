@@ -29,7 +29,7 @@ conda env create -f environment.yml
 
 ---
 
-## 🚀 Usage
+## 🚀 Run
 
 Run evaluation with default settings.
 ```bash
