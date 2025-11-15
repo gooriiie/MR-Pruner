@@ -9,6 +9,9 @@ Key highlights:
 - 🚀 **Training-free**: Plug-and-play, no model retraining needed.  
 - 🎯 **Robust**: Preserves complementary tokens across resolutions, enabling resilience in extreme pruning.  
 
+## 📰 News
+- **[2025/11/11]** Our paper MR-Prner has been accepted to **WACV 2026**!🎉  
+
 ---
 
 ## ⚙️ Installation
