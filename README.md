@@ -10,7 +10,7 @@ Key highlights:
 - 🎯 **Robust**: Preserves complementary tokens across resolutions, enabling resilience in extreme pruning.  
 
 ## 📰 News
-- **[2025/11/11]** Our paper MR-Prner has been accepted to **WACV 2026**!🎉  
+- **[2025/11/11]** Our paper MR-Prner has been accepted to **_WACV 2026_**!🎉  
 
 ---
 
